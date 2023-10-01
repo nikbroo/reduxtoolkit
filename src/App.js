@@ -7,6 +7,9 @@ function App() {
     <div className="App">
       < AddTodo/>
       < Todos />
+
+
+      
     </div>
   );
 }
